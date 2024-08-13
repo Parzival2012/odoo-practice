@@ -1,0 +1,2 @@
+# odoo-practice
+pratice odoo 
